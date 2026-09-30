@@ -1,24 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80",17:30 | United Arab Emirates vs Qatar
-https://live05.meung.app/live/87547578_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80",17:30 | Bahrain vs Yemen
-https://live05.meung.app/live/18812304_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f59d8d3db21b4054ac9e83a15f7b2609.png!w80",18:00 | Birmingham Nữ vs Liverpool Nữ
-https://live05.meung.app/live/87379114_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/8bdf53dba36eabed4350f4ba768900b3.png!w80",18:45 | Brighton Nữ vs Tottenham Nữ
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80",23:00 | Brooklyn FC vs Detroit
 https://live05.meung.app/live/02456966_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/99415c256a9adec98819ca588bfa8974.png!w80",19:00 | CLB nữ Lyon vs Chelsea Nữ
-https://live05.meung.app/live/07808742_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/10e3c287008eed128a8c53f8f55c26bd.png!w80",23:00 | Miami FC vs Sporting Jax
 https://live05.meung.app/live/99121525_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",23:00 | Washington Mystics vs Atlanta Dream
 https://live05.meung.app/live/82054853_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",23:30 | New York Red Bulls vs St. Louis City
+https://live05.meung.app/live/87547578_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",00:00 | Argentina vs Bolivia
 https://live05.meung.app/live/33982309_tsc.m3u8
@@ -29,11 +20,14 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",06:10 | Panama vs New Zealand
 https://live05.meung.app/live/78905744_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/13a16c993e82e2185b2d869cf5aa0973.png!w80",08:00 | Quận Crownity phía Bắc vs Southern District
+https://live05.meung.app/live/07808742_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80",09:30 | Tasmania JackNgười Nhảy vs Melbourne Tigers
+https://live05.meung.app/live/87379114_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80",10:10 | Đội tuyển Bóng đá Quốc gia Nhật Bản vs Ecuador
 https://live05.meung.app/live/07428422_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80",12:00 | Maldives vs Liban
-https://live05.meung.app/live/75748097_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80",12:30 | Indonesia vs Đội tuyển quốc gia Bangladesh
 https://live05.meung.app/live/59444581_tsc.m3u8
@@ -44,8 +38,14 @@ https://live05.meung.app/live/14830711_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png!w80",13:15 | Al Sharjah vs CLB Al Dhafra
 https://live05.meung.app/live/14707124_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png!w80",14:00 | Maldives vs Liban
+https://live05.meung.app/live/75748097_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/25a7ebe2fc19902b896b3a184ef420c9.png!w80",15:45 | Bani Yas vs Al Wahda
 https://live05.meung.app/live/75915087_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png!w80",16:45 | Áo Vienna phụ nữ vs Inter Nữ
+https://live05.meung.app/live/18812304_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",18:45 | Malta vs Gibraltar
 https://live05.meung.app/live/16226575_tsc.m3u8
