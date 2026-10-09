@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | CLB Shamrock Rovers vs Drogheda Utd",
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | Palmeiras vs Bahia",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
+            "url": "https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,65 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-190000",
+              "id": "CO LA TV-003000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | CLB Shamrock Rovers vs Drogheda Utd",
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | Palmeiras vs Bahia",
                   "streams": [
                     {
-                      "id": "CO LA TV-190000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/75915087_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-203000",
-          "name": "⚽ 20:30 | Atletico FC vs Cartagena",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/2efb310d5e0ffe6cd96dcf192ae06624.jpg!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-203000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-203000",
-                  "name": "20:30 | Atletico FC vs Cartagena",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-203000",
+                      "id": "CO LA TV-003000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -124,8 +74,8 @@
           ]
         },
         {
-          "id": "CO LA TV-223000",
-          "name": "⚽ 22:30 | CLB Santos vs CLB Flamengo",
+          "id": "CO LA TV-230500",
+          "name": "⚽ 23:05 | Atletico Nacional vs Deportes Tolima",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -133,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
+            "url": "https://img.gvapi.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -147,15 +97,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-223000",
+              "id": "CO LA TV-230500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-223000",
-                  "name": "22:30 | CLB Santos vs CLB Flamengo",
+                  "id": "CO LA TV-230500",
+                  "name": "23:05 | Atletico Nacional vs Deportes Tolima",
                   "streams": [
                     {
-                      "id": "CO LA TV-223000",
+                      "id": "CO LA TV-230500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -163,7 +113,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
                         }
                       ]
                     }
@@ -174,8 +124,8 @@
           ]
         },
         {
-          "id": "CO LA TV-223000",
-          "name": "⚽ 22:30 | CLB Ceara vs Criciuma",
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | Fluminense RJ vs Coritiba",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -183,7 +133,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80",
+            "url": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -197,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-223000",
+              "id": "CO LA TV-003000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-223000",
-                  "name": "22:30 | CLB Ceara vs Criciuma",
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | Fluminense RJ vs Coritiba",
                   "streams": [
                     {
-                      "id": "CO LA TV-223000",
+                      "id": "CO LA TV-003000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -324,56 +274,6 @@
           ]
         },
         {
-          "id": "CO LA TV-230500",
-          "name": "⚽ 23:05 | Atletico Nacional vs Deportes Tolima",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230500",
-                  "name": "23:05 | Atletico Nacional vs Deportes Tolima",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-233000",
           "name": "⚽ 23:30 | New York Knicks vs Washington Wizards",
           "type": "single",
@@ -464,106 +364,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | Fluminense RJ vs Coritiba",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | Fluminense RJ vs Coritiba",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | Palmeiras vs Bahia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | Palmeiras vs Bahia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
                         }
                       ]
                     }
@@ -2863,7 +2663,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -2963,7 +2763,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -3124,6 +2924,56 @@
           ]
         },
         {
+          "id": "CO LA TV-050000",
+          "name": "⚽ 05:00 | CLB Omiya Ardija vs Vanraure",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-050000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-050000",
+                  "name": "05:00 | CLB Omiya Ardija vs Vanraure",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-050000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/59444581_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-060000",
           "name": "⚽ 06:00 | Avispa Fukuoka vs Fagiano Okayama",
           "type": "single",
@@ -3274,6 +3124,56 @@
           ]
         },
         {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Gimcheon Sangmu FC vs FC Anyang",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Gimcheon Sangmu FC vs FC Anyang",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/16226575_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-083000",
           "name": "⚽ 08:30 | South East Melbourne vs Melbourne Tigers",
           "type": "single",
@@ -3314,6 +3214,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-083000",
+          "name": "⚽ 08:30 | Arema Malang vs Bhayangkara Solo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-083000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-083000",
+                  "name": "08:30 | Arema Malang vs Bhayangkara Solo",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-083000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
@@ -3563,7 +3513,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
@@ -3614,6 +3564,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/16226575_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-110000",
+          "name": "⚽ 11:00 | CLB Magdeburg vs Hannover 96",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/e4dba0e2b72f3f545ece098b91b811a1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-110000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-110000",
+                  "name": "11:00 | CLB Magdeburg vs Hannover 96",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-110000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
                         }
                       ]
                     }
@@ -4113,7 +4113,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
                         }
                       ]
                     }
@@ -4163,7 +4163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/90865415_tsc.m3u8"
                         }
                       ]
                     }
