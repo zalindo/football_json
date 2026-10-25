@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",23:40 | Atlanta Utd vs CLB Chicago Fire
-https://live05.yefpwmc.app/live/87547578_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",00:30 | Atlanta Hawks vs Houston Rockets
-https://live05.yefpwmc.app/live/87379114_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",23:30 | Philadelphia 76ers vs Milwaukee Bucks
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",00:00 | Dallas Mavericks vs San Antonio Spurs
-https://live05.yefpwmc.app/live/82054853_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",01:00 | Denver Nuggets vs New Orleans Pelicans
-https://live05.yefpwmc.app/live/89756030_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",02:00 | Phoenix suns vs Golden State Warriors
-https://live05.yefpwmc.app/live/19919577_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80",02:00 | Wellington Phoenix vs CLB Central Coast
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",05:00 | Nagoya Grampus vs Yokohama F. Marinos
 https://live05.yefpwmc.app/live/49572724_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",06:00 | Cerezo Osaka vs Chiba
 https://live05.yefpwmc.app/live/18812304_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",05:00 | Anyang KGC vs Wonju Dongbu Promy
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",06:00 | Melbourne Tigers vs Sydney
+https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",07:00 | CLB Tokyo vs Mito Hollyhock
 https://live05.yefpwmc.app/live/14707124_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80",07:30 | Incheon vs Seoul Samsung Thunders
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80",10:45 | Rostov vs Lokomotiv
 https://live05.yefpwmc.app/live/07428422_tsc.m3u8
@@ -59,9 +47,21 @@ https://live05.yefpwmc.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",14:00 | Manchester United vs Bournemouth
 https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80",14:30 | TSG 1899 Hoffenheim vs Bayer 04 Leverkusen
+https://live05.yefpwmc.app/live/87547578_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",16:30 | SC Freiburg vs FC Bayern München
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/783ce34336f24424a273c5c2403a3cb1.png!w80",18:00 | CLB Nacional vs Braga
 https://live05.yefpwmc.app/live/75748097_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",23:00 | Oklahoma City Thunder vs Los Angeles Clippers
+https://live05.yefpwmc.app/live/89756030_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",01:00 | Los Angeles FC vs CLB LA Galaxy
 https://live05.yefpwmc.app/live/07808742_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",03:10 | Club Tijuana vs Santos Laguna
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 
