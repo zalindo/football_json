@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",03:10 | Club Tijuana vs Santos Laguna
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",16:30 | SC Freiburg vs FC Bayern München
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/783ce34336f24424a273c5c2403a3cb1.png!w80",18:00 | CLB Nacional vs Braga
-https://live05.yefpwmc.app/live/87547578_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80",17:30 | Real Sociedad vs CLB Levante
-https://live05.yefpwmc.app/live/16226575_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80",17:00 | U.S. Lecce vs Juventus F.C.
-https://live05.yefpwmc.app/live/33982309_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80",16:00 | Al Ain vs Tractor
-https://live05.yefpwmc.app/live/78905744_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",16:30 | Sunderland vs CLB Leeds United
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",20:00 | FC Barcelona vs Real Madrid CF
 https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80",18:00 | Rio Ave vs Famalicao
-https://live05.yefpwmc.app/live/59444581_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",21:00 | Utah Jazz vs Los Angeles Lakers
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",15:00 | FC Ararat-Armenia vs Noah
+https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",20:30 | Sporting vs CLB Viseu
+https://live05.yefpwmc.app/live/49572724_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",18:30 | Galatasaray vs Fenerbahce
+https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80",19:45 | Udinese Calcio vs AC Milan
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
 
