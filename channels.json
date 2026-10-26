@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-053000",
-          "name": "⚽ 05:30 | SC Bengaluru vs Rebels FC",
+          "id": "CO LA TV-120000",
+          "name": "⚽ 12:00 | Persija Jakarta vs CLB Persik Kediri",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f45e63cabf4413baea299663cb836c7e.png!w80",
+            "url": "https://img.cltvap.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-053000",
+              "id": "CO LA TV-120000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-053000",
-                  "name": "05:30 | SC Bengaluru vs Rebels FC",
+                  "id": "CO LA TV-120000",
+                  "name": "12:00 | Persija Jakarta vs CLB Persik Kediri",
                   "streams": [
                     {
-                      "id": "CO LA TV-053000",
+                      "id": "CO LA TV-120000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,307 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-080000",
-          "name": "⚽ 08:00 | FC United Stars vs India Star aviation SC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5ad3bc248f9d187464ddd33e064a6f24.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-080000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-080000",
-                  "name": "08:00 | FC United Stars vs India Star aviation SC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-080000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Goyang Carrot Jumpers vs LG Sakers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Goyang Carrot Jumpers vs LG Sakers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | FC Lochin vs Fergana University",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/0f68e99e5c5eb82da0f5f5842d390209.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | FC Lochin vs Fergana University",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-113000",
-          "name": "⚽ 11:30 | Geylang  vs Hougang",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/0c41c6173e22474c62a6563fab45baf3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113000",
-                  "name": "11:30 | Geylang  vs Hougang",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Shanghai vs Guangdong Southern Tigers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Shanghai vs Guangdong Southern Tigers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Ningbo Tingwo vs Jiutai Rural Commercial Bank",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/9b17d2feb1397b99fa0530fba4c7385b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Ningbo Tingwo vs Jiutai Rural Commercial Bank",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8"
                         }
                       ]
                     }
@@ -414,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Persija Jakarta vs CLB Persik Kediri",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Persija Jakarta vs CLB Persik Kediri",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8"
                         }
                       ]
                     }
@@ -663,7 +313,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -1313,7 +963,57 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-193000",
+          "name": "⚽ 19:30 | Paris Saint-Germain vs Olympique Lyonnais",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-193000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-193000",
+                  "name": "19:30 | Paris Saint-Germain vs Olympique Lyonnais",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-193000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -1433,7 +1133,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "",
+            "url": "https://static.bongda24h.vn/medias/original/2026/05/29/qbv-2905061726.jpeg",
             "width": 1600,
             "height": 1200
           },
@@ -1863,7 +1563,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/14707124_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -2813,7 +2513,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8"
+                          "url": "https://live05.yefpwmc.app/live/14707124_tsc.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4714,306 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.yefpwmc.app/live/14707124_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150500",
+          "name": "⚽ 15:05 | Al Najma vs Al Zulfi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/fde877e452f79f75955ad4e4f326c654.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150500",
+                  "name": "15:05 | Al Najma vs Al Zulfi",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150500",
+          "name": "⚽ 15:05 | Al Jabalain vs Al-Raed",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/ff21a5b966039a14fa4cd721d29b40ee.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150500",
+                  "name": "15:05 | Al Jabalain vs Al-Raed",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-151500",
+          "name": "⚽ 15:15 | Câu lạc bộ bóng đá Rostov vs Akron Togliatti",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-151500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-151500",
+                  "name": "15:15 | Câu lạc bộ bóng đá Rostov vs Akron Togliatti",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-151500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-151500",
+          "name": "⚽ 15:15 | Shab Hadramawt vs Al Duhail",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/027f6ca62481fb9c052f5022f166b850.jfif!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-151500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-151500",
+                  "name": "15:15 | Shab Hadramawt vs Al Duhail",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-151500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Nahda vs Al Rayyan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Nahda vs Al Rayyan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Al Jazira vs Al-Muharraq",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-160000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Al Jazira vs Al-Muharraq",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-160000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8"
                         }
                       ]
                     }
