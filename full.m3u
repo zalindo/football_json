@@ -1,36 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80",14:00 | North East Utd vs Bengaluru
-https://live05.miekgo.app/live/07808742.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80",14:15 | Al-Shahaniya vs Al Ahli Doha
-https://live05.miekgo.app/live/16226575.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80",14:30 | CLB Turan Tovuz vs Sabah FC
-https://live05.miekgo.app/live/49572724.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png!w80",14:50 | Al Draih vs NEOM Sports Club
-https://live05.miekgo.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80",15:00 | Asyut Petroleum vs El Gouna
-https://live05.miekgo.app/live/87547578.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80",15:10 | CSKA 1948 Sofia vs Spartak Varna
-https://live05.miekgo.app/live/33860426.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80",16:00 | Câu lạc bộ bóng đá Shakhtar Donetsk vs Obolon Kyiv
-https://live05.miekgo.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80",16:30 | CLB Al Sadd vs Al Shamal
-https://live05.miekgo.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80",16:30 | CLB Al Gharafa vs Qatar SC
-https://live05.miekgo.app/live/18812304.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png!w80",17:00 | Konyaspor vs Galatasaray
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80",20:00 | Villarreal vs CLB Espanyol
 https://live05.miekgo.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/181ad56f9efa4afb8872971448266f51.png!w80",17:00 | Cracovia Krakow vs Lublin
-https://live05.miekgo.app/live/07428422.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80",19:30 | CLB Elversberg vs 1. FSV Mainz 05
+https://live05.miekgo.app/live/02456966.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80",20:05 | Lille OSC vs RC Lens
+https://live05.miekgo.app/live/18812304.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1818ea30e1a1e461dd571d54e19962a0.png!w80",19:45 | Zulte Waregem vs Club Brugge
+https://live05.miekgo.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/008437c93501963e6ca1b2450994007a.png!w80",20:00 | CLB Sheffield United vs CLB Wrexham
+https://live05.miekgo.app/live/16226575.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png!w80",20:15 | Casa Pia AC vs Sporting
+https://live05.miekgo.app/live/49572724.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",22:00 | Huracan vs Club Atletico Tigre
 https://live05.miekgo.app/live/59444581.m3u8
@@ -58,6 +43,21 @@ https://live05.miekgo.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",05:00 | CLB Jeonbuk Hyundai Motors vs Daejeon
 https://live05.miekgo.app/live/75915087.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80",06:00 | Vissel Kobe vs Nagoya Grampus
+https://live05.miekgo.app/live/07808742.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/36806061ca70613f4c30f1211ee0b1ba.png!w80",06:00 | Clb Melbourne city vs Sydney FC
+https://live05.miekgo.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",07:00 | Kashiwa Reysol vs Urawa Reds
+https://live05.miekgo.app/live/33860426.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80",07:30 | Gwangju FC vs Gimcheon Sangmu FC
+https://live05.miekgo.app/live/07428422.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80",08:30 | PSM Makassar vs CLB Madura United
+https://live05.miekgo.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png!w80",13:00 | CLB Levante vs Atlético Madrid
 https://live05.miekgo.app/live/78905744.m3u8
