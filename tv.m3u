@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",01:07 | Chivas Guadalajara vs CLB Atlante
-https://live05.miekgo.app/live/59444581.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80",01:00 | Monterrey vs Club Tijuana
-https://live05.miekgo.app/live/87379114.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",00:00 | Golden State Valkyries vs Atlanta Dream
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0f5f64c52541a333596d8892b25aa310.png!w80",10:00 | Gazovik Orenburg vs CSKA Moscow
 https://live05.miekgo.app/live/82054853.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",00:30 | Houston Rockets vs Oklahoma City Thunder
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9cfac3b42730170807894c159f4ca47e.png!w80",08:00 | CLB Perth Glory vs CLB Adelaide United
+https://live05.miekgo.app/live/75748097.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80",08:30 | CLB Persib Bandung vs Adhyaksa FC Banten
+https://live05.miekgo.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",08:30 | PSIM Yogyakarta vs Pusamania Borneo FC
 https://live05.miekgo.app/live/90865415.m3u8
 
