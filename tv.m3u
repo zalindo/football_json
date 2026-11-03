@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80",22:00 | Defensa y Justicia vs Independiente
-https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",03:00 | Los Angeles Lakers vs Miami Heat
+https://live05.miekgo.app/live/19919577.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3190d6d022fe9b36c65d83cf98e16d15.png!w80",21:05 | CLB Aguilas Doradas vs Fortaleza CEIF
-https://live05.miekgo.app/live/18812304.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",02:00 | Denver Nuggets vs Portland Trail Blazers
+https://live05.miekgo.app/live/89756030.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80",23:00 | Bragantino vs CLB Santos
-https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",03:00 | Golden State Warriors vs Phoenix suns
+https://live05.miekgo.app/live/56998120.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",01:30 | Houston Rockets vs Boston Celtics
+https://live05.miekgo.app/live/87379114.m3u8
 
