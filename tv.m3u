@@ -1,13 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",00:00 | Toronto Raptors vs Boston Celtics
-https://live05.wecile.app/live/19919577.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",08:00 | Thái Lan U23 vs Qatar U23
+https://live05.wecile.app/live/14830711.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",00:00 | New York Knicks vs Cleveland Cavaliers
-https://live05.wecile.app/live/90865415.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80",08:30 | APIA Tigers vs Adelaide City FC
+https://live05.wecile.app/live/99121525.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80",01:00 | Club America Nữ vs Toluca Nữ
-https://live05.wecile.app/live/59444581.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",01:00 | Milwaukee Bucks vs Los Angeles Lakers
-https://live05.wecile.app/live/56998120.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",08:30 | Adelaide 36ers vs Melbourne Tigers
+https://live05.wecile.app/live/87379114.m3u8
 
