@@ -1,42 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",23:30 | CLB Chapecoense SC vs Vasco
-https://live05.wecile.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",01:00 | Jamaica vs Mexico
-https://live05.wecile.app/live/59444581.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",00:55 | New York Red Bulls vs Club America
-https://live05.wecile.app/live/49572724.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",00:00 | New Orleans Pelicans vs Denver Nuggets
-https://live05.wecile.app/live/56998120.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",00:30 | Cleveland Cavaliers vs Dallas Mavericks
-https://live05.wecile.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",01:00 | Miami Heat vs Detroit Pistons
-https://live05.wecile.app/live/82054853.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",01:00 | Memphis Grizzlies vs Brooklyn Nets
-https://live05.wecile.app/live/87379114.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",01:00 | Minnesota Timberwolves vs Chicago Bulls
-https://live05.wecile.app/live/90865415.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/fd8ad42f4f7a3b8cbe094e6d166a0b2c.png!w80",04:00 | Canberra Nữ vs Brisbane Roar Nữ
-https://live05.wecile.app/live/75915087.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80",04:05 | Vegalta Sendai vs Blaublitz Akita
-https://live05.wecile.app/live/14830711.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",06:00 | Cerezo Osaka vs Urawa Reds
 https://live05.wecile.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",06:00 | Kashima Antlers vs Yokohama F. Marinos
+https://live05.wecile.app/live/49572724.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",06:00 | Brisbane Bullets vs Tasmania JackJumpers
+https://live05.wecile.app/live/90865415.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80",07:30 | LG Sakers vs Busan KTF Sonicboom
+https://live05.wecile.app/live/56998120.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",08:00 | Kashiwa Reysol vs Kawasaki Frontale
+https://live05.wecile.app/live/75915087.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80",09:00 | Reilac Shiga FC vs Osaka FC
+https://live05.wecile.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/178df2f7b70aa342f101f957d0c3144f.png!w80",11:00 | Amarante vs Felgueiras
 https://live05.wecile.app/live/16226575.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80",11:00 | CD Tondela vs SC Farense
+https://live05.wecile.app/live/99121525.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/2e757283541b53461c2dd9759c39eb85.png!w80",11:30 | Calcio Giugliano vs Savoia
-https://live05.wecile.app/live/08552895.m3u8
+https://live05.wecile.app/live/07808742.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80",11:30 | Ufa vs S. Kostroma
 https://live05.wecile.app/live/02456966.m3u8
@@ -53,17 +41,20 @@ https://live05.wecile.app/live/75748097.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80",13:00 | CLB Tenerife vs Ceuta
 https://live05.wecile.app/live/07428422.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",13:00 | Scotland U21 vs USA U21
-https://live05.wecile.app/live/78905744.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d8c05f02f3ad2bb52a4c539e3453a30a.png!w80",13:30 | Spezia Calcio vs Vado
 https://live05.wecile.app/live/97885009.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/948e7850b0d6bd6224a99a647e24e29b.png!w80",13:30 | U.S. Salernitana vs CLB Catania
 https://live05.wecile.app/live/33860426.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9786e02491cd73bef33d48d5f1b2ad51.png!w80",14:00 | Aston Villa Nữ vs Birmingham Nữ
-https://live05.wecile.app/live/07808742.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80",14:00 | Latvia vs CLB Armenia
+https://live05.wecile.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80",14:00 | FK Sochi vs Shinnik Yaroslavl
+https://live05.wecile.app/live/14830711.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",14:00 | Scotland U21 vs USA U21
+https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/28da4be2e01d4db90e8fce3769d9ccb9.png!w80",18:00 | Leixoes S.C. vs Chaves
 https://live05.wecile.app/live/88508431.m3u8
@@ -71,6 +62,15 @@ https://live05.wecile.app/live/88508431.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/2e71fd2a456cd182d3583c1189bc5569.png!w80",18:00 | Comerciantes Unidos vs Sport Boys
 https://live05.wecile.app/live/14707124.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",22:00 | Utah Jazz vs San Antonio Spurs
+https://live05.wecile.app/live/82054853.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",23:00 | Toronto Raptors vs New York Knicks
 https://live05.wecile.app/live/89756030.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",23:00 | Panama vs Curacao
+https://live05.wecile.app/live/59444581.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",10:00 | Seoul Knights vs Mobis Phoebus
+https://live05.wecile.app/live/87379114.m3u8
 
