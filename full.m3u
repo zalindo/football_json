@@ -1,33 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80",17:30 | Al Ahli SC vs Al-Nassr
-https://live05.wecile.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80",17:30 | CLB Bielefeld vs CLB Magdeburg
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",23:00 | CLB Velez Sarsfield vs Belgrano
 https://live05.wecile.app/live/16226575.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/da5997a60373a56628e684ae3c16f2c8.png!w80",17:30 | Darmstadt vs Heidenheimer
-https://live05.wecile.app/live/33860426.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/a2e19c2b6ed3efe3ee5c58bdf9a87ee3.png!w80",17:30 | Anadolu Efes S.K. vs Lyon-Villeurbanne
-https://live05.wecile.app/live/89756030.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",18:00 | Câu lạc bộ bóng đá Molde vs Bodo Glimt
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png!w80",23:35 | Bucaramanga vs CLB America de Cali
 https://live05.wecile.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/a0da10be11be5910b71c5ca79af53350.png!w80",18:00 | Câu lạc bộ AGF Aarhus vs Lyngby
-https://live05.wecile.app/live/18812304.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80",19:15 | Olympiacos Piraeus vs Real Madrid
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",00:00 | Atlanta Hawks vs Charlotte Hornets
 https://live05.wecile.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",19:30 | FC Bayern München vs 1. FC Köln
-https://live05.wecile.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/b8e39abb18bb1c69396c59ff73ecf124.png!w80",19:30 | Hellas Verona F.C. vs Cesena
-https://live05.wecile.app/live/07808742.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/87b05db9f90fc41e0faa409474ada50c.png!w80",19:30 | Andorra vs CLB Leganes
-https://live05.wecile.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",00:30 | Cleveland Cavaliers vs Indiana Pacers
 https://live05.wecile.app/live/82054853.m3u8
@@ -59,6 +38,9 @@ https://live05.wecile.app/live/78905744.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",05:00 | CLB Pohang Steelers vs FC Anyang
 https://live05.wecile.app/live/99121525.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80",06:00 | CLB Central Coast vs CLB Perth Glory
+https://live05.wecile.app/live/33982309.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",06:00 | Cerezo Osaka vs CLB Tokyo
 https://live05.wecile.app/live/75748097.m3u8
 
@@ -71,6 +53,24 @@ https://live05.wecile.app/live/88508431.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",11:00 | Thép Xanh Nam Định vs Hải Phòng
 https://live05.wecile.app/live/07428422.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",12:00 | VfL Wolfsburg vs CLB Holstein Kiel
+https://live05.wecile.app/live/07808742.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",12:00 | Nurnberg vs Braunschweig
 https://live05.wecile.app/live/97885009.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80",12:30 | Câu lạc bộ bóng đá thành phố Manchester  vs Câu lạc bộ bóng đá Fulham
+https://live05.wecile.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/4623d3fa1cda20d1f289dce9dc803527.png!w80",12:30 | Southampton vs CLB Derby County
+https://live05.wecile.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80",13:00 | Alaves vs Dep. La Coruna
+https://live05.wecile.app/live/33860426.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80",14:30 | 1. FC Union Berlin vs RB Leipzig
+https://live05.wecile.app/live/18812304.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",03:00 | Sacramento Kings vs Đội bóng rổ Boston Celtics
+https://live05.wecile.app/live/89756030.m3u8
 
