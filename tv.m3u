@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3555977b288a6b8b02f876b0e5a1da53.png!w80",20:00 | Torreense vs Celtic
-https://live05.wecile.app/live/97885009.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/538d312c2512ebda3129f105db04e5e5.png!w80",20:00 | Borac Banja Luka vs Atalanta B.C.
-https://live05.wecile.app/live/18812304.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/22914374027227fe756f0efab86a7b53.png!w80",22:00 | UCLA vs St. Marys (CA)
-https://live05.wecile.app/live/90865415.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",20:00 | SC Freiburg vs Twente
-https://live05.wecile.app/live/88508431.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80",14:00 | Costa Rica U17 vs Brazil U17
-https://live05.wecile.app/live/33982309.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",03:10 | Club Leon vs Cruz Azul
+https://live05.wecile.app/live/59444581.m3u8
 
